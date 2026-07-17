@@ -1,6 +1,6 @@
-let numero1 = 7 //Number(prompt("Ingrese su primer numero:"));
-let numero2 = 9 //Number(prompt("Ingrese su segundo numero:"));
-let numero3 = 1 //Number(prompt("Ingrese su tercero numero:"));
+let numero1 = Number(prompt("Ingrese su primer numero:"));
+let numero2 = Number(prompt("Ingrese su segundo numero:"));
+let numero3 = Number(prompt("Ingrese su tercero numero:"));
 
 let ordenar=[]
 
